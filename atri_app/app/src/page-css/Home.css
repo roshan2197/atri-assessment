@@ -1,0 +1,2237 @@
+.p-Home.Flex20 {
+display: flex;
+width: 94%;
+height: 1390%;
+flex-direction: column;
+padding-bottom: 100px;
+margin-left: 1px;
+padding-right: 30px;
+padding-left: 30px;
+border-color: #b5b5b5;
+padding-top: 30px;
+margin-right: ;
+}
+.p-Home.Flex4 {
+display: flex;
+justify-content: space-between;
+height: ;
+row-gap: ;
+column-gap: ;
+margin-left: ;
+padding-left: ;
+padding-right: ;
+align-items: center;
+margin-top: ;
+margin-bottom: ;
+font-family: IBM Plex Sans;
+}
+.p-Home.Flex7 {
+display: flex;
+}
+.p-Home.Flex13 {
+display: flex;
+align-items: center;
+justify-content: space-between;
+column-gap: 10px;
+}
+.p-Home.Flex14 {
+display: none;
+width: ;
+}
+.p-Home.Flex10 {
+display: flex;
+justify-content: flex-start;
+row-gap: ;
+column-gap: 30px;
+}
+.p-Home.Flex6 {
+display: flex;
+row-gap: ;
+column-gap: 10px;
+justify-content: space-between;
+align-items: center;
+font-size: ;
+color: #000000;
+margin-left: 0px;
+padding-right: 0px;
+}
+.p-Home.Flex15 {
+display: flex;
+flex-direction: column;
+row-gap: 20px;
+padding-top: 0px;
+padding-bottom: 0px;
+margin-left: ;
+margin-right: ;
+margin-top: 160px;
+margin-bottom: ;
+}
+.p-Home.Flex16 {
+display: flex;
+flex-direction: column;
+font-family: IBM Plex Sans;
+}
+.p-Home.Div11 {
+margin-bottom: 20px;
+}
+.p-Home.Flex17 {
+display: flex;
+justify-content: center;
+font-family: IBM Plex Sans;
+font-weight: normal;
+font-size: 48px;
+margin-top: 10px;
+margin-bottom: 50px;
+}
+.p-Home.Flex22 {
+display: flex;
+flex-direction: column;
+}
+.p-Home.Flex24 {
+display: flex;
+flex-direction: column;
+width: 100%;
+margin-left: ;
+margin-right: ;
+margin-top: ;
+margin-bottom: ;
+border-width: 0.5px;
+border-style: solid;
+border-color: transparent;
+cursor: default;
+}
+.p-Home.Flex18 {
+display: flex;
+flex-direction: row-reverse;
+width: 100%;
+margin-left: ;
+margin-right: ;
+margin-top: 10px;
+margin-bottom: 30px;
+border-width: 0.5px;
+border-style: solid;
+border-color: #888888;
+cursor: pointer;
+}
+.p-Home.Flex19 {
+display: flex;
+width: 40%;
+margin-bottom: ;
+padding-bottom: 22px;
+flex-direction: column;
+align-items: flex-start;
+justify-content: center;
+column-gap: ;
+row-gap: 5px;
+margin-top: ;
+margin-left: ;
+margin-right: 20px;
+padding-left: 20px;
+}
+.p-Home.Flex84 {
+display: flex;
+flex-direction: row-reverse;
+width: 100%;
+margin-left: ;
+margin-right: ;
+margin-top: 10px;
+margin-bottom: 30px;
+border-width: 0.5px;
+border-style: solid;
+border-color: #888888;
+cursor: pointer;
+}
+.p-Home.Flex83 {
+display: flex;
+width: 40%;
+margin-bottom: ;
+padding-bottom: 22px;
+flex-direction: column;
+align-items: flex-start;
+justify-content: center;
+column-gap: ;
+row-gap: 5px;
+margin-top: ;
+margin-left: ;
+margin-right: 20px;
+padding-left: 20px;
+}
+.p-Home.Flex86 {
+display: flex;
+flex-direction: row-reverse;
+width: 100%;
+margin-left: ;
+margin-right: ;
+margin-top: 10px;
+margin-bottom: 30px;
+border-width: 0.5px;
+border-style: solid;
+border-color: #888888;
+cursor: pointer;
+}
+.p-Home.Flex85 {
+display: flex;
+width: 40%;
+margin-bottom: ;
+padding-bottom: 22px;
+flex-direction: column;
+align-items: flex-start;
+justify-content: center;
+column-gap: ;
+row-gap: 5px;
+margin-top: ;
+margin-left: ;
+margin-right: 20px;
+padding-left: 20px;
+}
+.p-Home.Flex90 {
+display: flex;
+flex-direction: row-reverse;
+width: 100%;
+margin-left: ;
+margin-right: ;
+margin-top: 10px;
+margin-bottom: 30px;
+border-width: 0.5px;
+border-style: solid;
+border-color: #888888;
+cursor: pointer;
+}
+.p-Home.Flex89 {
+display: flex;
+width: 40%;
+margin-bottom: ;
+padding-bottom: 22px;
+flex-direction: column;
+align-items: flex-start;
+justify-content: center;
+column-gap: ;
+row-gap: 5px;
+margin-top: ;
+margin-left: ;
+margin-right: 20px;
+padding-left: 20px;
+}
+.p-Home.Flex53 {
+display: flex;
+flex-direction: column;
+row-gap: 30px;
+}
+.p-Home.Flex54 {
+display: flex;
+justify-content: space-between;
+align-items: center;
+}
+.p-Home.Flex55 {
+display: flex;
+border-bottom-width: 2px;
+flex-wrap: wrap;
+justify-content: space-between;
+align-items: center;
+}
+.p-Home.Div27 {
+margin-bottom: 20px;
+padding-bottom: 20px;
+border-bottom-width: 2px;
+border-bottom-style: none;
+padding-left: ;
+padding-right: ;
+width: 30%;
+margin-right: 20px;
+min-width: 30%;
+}
+.p-Home.Div85 {
+margin-bottom: 20px;
+padding-bottom: 20px;
+border-bottom-width: 2px;
+border-bottom-style: none;
+padding-left: ;
+padding-right: ;
+width: 30%;
+margin-right: 20px;
+min-width: 30%;
+}
+.p-Home.Div86 {
+margin-bottom: 20px;
+padding-bottom: 20px;
+border-bottom-width: 2px;
+border-bottom-style: none;
+padding-left: ;
+padding-right: ;
+width: 30%;
+margin-right: 20px;
+min-width: 30%;
+}
+.p-Home.Div87 {
+margin-bottom: 20px;
+padding-bottom: 20px;
+border-bottom-width: 2px;
+border-bottom-style: none;
+padding-left: ;
+padding-right: ;
+width: 30%;
+margin-right: 20px;
+min-width: 30%;
+}
+.p-Home.Div88 {
+margin-bottom: 20px;
+padding-bottom: 20px;
+border-bottom-width: 2px;
+border-bottom-style: none;
+padding-left: ;
+padding-right: ;
+width: 30%;
+margin-right: 20px;
+min-width: 30%;
+}
+.p-Home.Div89 {
+margin-bottom: 20px;
+padding-bottom: 20px;
+border-bottom-width: 2px;
+border-bottom-style: none;
+padding-left: ;
+padding-right: ;
+width: 30%;
+margin-right: 20px;
+min-width: 30%;
+}
+.p-Home.Flex58 {
+display: flex;
+flex-direction: column;
+row-gap: 30px;
+}
+.p-Home.Flex57 {
+display: flex;
+justify-content: space-between;
+margin-bottom: 30px;
+}
+.p-Home.Flex60 {
+display: flex;
+flex-direction: row-reverse;
+width: 100%;
+margin-left: ;
+margin-right: ;
+margin-top: 10px;
+margin-bottom: 30px;
+border-width: 0.5px;
+border-style: solid;
+border-color: transparent;
+cursor: default;
+}
+.p-Home.Flex59 {
+display: flex;
+width: 50%;
+margin-bottom: ;
+padding-bottom: 22px;
+flex-direction: column;
+align-items: flex-start;
+justify-content: center;
+column-gap: ;
+row-gap: 5px;
+margin-top: ;
+margin-left: ;
+margin-right: 20px;
+padding-left: ;
+}
+.p-Home.Flex62 {
+display: flex;
+flex-direction: row-reverse;
+width: 100%;
+margin-left: ;
+margin-right: ;
+margin-top: 10px;
+margin-bottom: 30px;
+border-width: 0.5px;
+border-style: solid;
+border-color: transparent;
+cursor: default;
+}
+.p-Home.Flex61 {
+display: flex;
+width: 50%;
+margin-bottom: ;
+padding-bottom: 22px;
+flex-direction: column;
+align-items: flex-start;
+justify-content: center;
+column-gap: ;
+row-gap: 5px;
+margin-top: ;
+margin-left: ;
+margin-right: 20px;
+padding-left: ;
+}
+.p-Home.Flex68 {
+display: flex;
+flex-direction: column;
+row-gap: 30px;
+}
+.p-Home.Flex69 {
+display: flex;
+flex-direction: row-reverse;
+}
+.p-Home.Flex66 {
+display: flex;
+flex-direction: column;
+width: 100%;
+margin-left: ;
+margin-right: ;
+margin-top: 10px;
+margin-bottom: 30px;
+border-width: 0.5px;
+border-style: solid;
+border-color: transparent;
+cursor: default;
+justify-content: flex-start;
+align-items: flex-start;
+}
+.p-Home.Flex64 {
+display: flex;
+width: 50%;
+margin-bottom: ;
+padding-bottom: 22px;
+flex-direction: column;
+align-items: flex-start;
+justify-content: center;
+column-gap: ;
+row-gap: 5px;
+margin-top: ;
+margin-left: ;
+margin-right: 20px;
+padding-left: ;
+}
+.p-Home.Flex76 {
+display: flex;
+flex-direction: column;
+row-gap: 30px;
+}
+.p-Home.Flex77 {
+display: flex;
+justify-content: space-around;
+padding-top: 10px;
+padding-bottom: 10px;
+}
+.p-Home.Flex78 {
+display: flex;
+width: 30%;
+min-width: 3%;
+flex-direction: column;
+align-items: flex-start;
+}
+.p-Home.Flex94 {
+display: flex;
+width: ;
+min-width: 35%;
+flex-direction: column;
+align-items: stretch;
+justify-content: flex-start;
+}
+.p-Home.Flex96 {
+display: flex;
+padding-bottom: 20px;
+justify-content: flex-start;
+align-items: center;
+}
+.p-Home.Flex102 {
+display: flex;
+padding-bottom: 10px;
+flex-direction: column;
+min-width: 33%;
+align-items: flex-start;
+}
+.p-Home.Flex111 {
+display: flex;
+padding-bottom: 10px;
+flex-direction: column;
+min-width: 33%;
+align-items: flex-start;
+}
+.p-Home.Flex112 {
+display: flex;
+padding-bottom: 10px;
+flex-direction: column;
+min-width: 33%;
+align-items: flex-start;
+}
+.p-Home.Flex95 {
+display: flex;
+width: 20%;
+min-width: 20%;
+flex-direction: column-reverse;
+align-items: flex-start;
+}
+.p-Home.Flex114 {
+display: flex;
+padding-bottom: 10px;
+flex-direction: column;
+min-width: 33%;
+align-items: flex-start;
+}
+.p-Home.Flex128 {
+display: flex;
+flex-direction: column;
+row-gap: 30px;
+margin-top: ;
+margin-bottom: 50px;
+}
+.p-Home.Flex129 {
+display: flex;
+align-items: center;
+justify-content: space-between;
+}
+.p-Home.Flex132 {
+display: flex;
+padding-bottom: ;
+justify-content: space-between;
+width: ;
+column-gap: 20px;
+}
+.p-Home.Flex134 {
+display: flex;
+position: relative;
+bottom: 2px;
+width: 100%;
+}
+.p-Home.Flex133 {
+display: flex;
+width: 50%;
+flex-direction: column;
+justify-content: center;
+}
+.p-Home.Div14 {
+width: 100%;
+height: 1px;
+background-color: #d6d6d6;
+line-height: 1px;
+border-color: transparent;
+outline-color: transparent;
+color: transparent;
+padding-left: ;
+margin-left: ;
+margin-bottom: 100px;
+margin-top: 100px;
+padding-bottom: ;
+}
+.p-Home.TextBox40 {
+font-size: 26px;
+font-family: IBM Plex Sans;
+font-weight: 400;
+line-height: 40px;
+border-bottom-width: 4px;
+border-bottom-style: solid;
+margin-top: 20px;
+align-self: center;
+}
+.p-Home.Div24 {
+width: 100%;
+height: 1px;
+background-color: #d6d6d6;
+line-height: 1px;
+border-color: transparent;
+outline-color: transparent;
+color: transparent;
+padding-left: ;
+margin-left: ;
+margin-bottom: 100px;
+margin-top: 100px;
+padding-bottom: ;
+}
+.p-Home.Image101 {
+width: 216px;
+position: relative;
+left: 440px;
+top: 150px;
+z-index: 1;
+}
+.p-Home.Image4 {
+;
+}
+.p-Home.Menu2 {
+display: inline-block;
+margin-right: 10px;
+}
+.p-Home.Image5 {
+;
+}
+.p-Home.Image2 {
+height: ;
+align-self: auto;
+padding-left: 0px;
+margin-left: ;
+margin-right: 10px;
+cursor: pointer;
+}
+.p-Home.Button10 {
+color: #000000;
+background-color: transparent;
+padding-top: 8px;
+padding-left: 15px;
+padding-bottom: 8px;
+padding-right: 15px;
+font-size: 16px;
+border-radius: 2px;
+outline: none;
+font-weight: 400;
+text-align: center;
+border-width: 1px;
+border-style: solid;
+border-color: transparent;
+cursor: pointer;
+user-select: none;
+outline-color: transparent;
+margin-left: 0px;
+font-family: IBM Plex Sans;
+}
+.p-Home.Button13 {
+color: #000000;
+background-color: transparent;
+padding-top: 8px;
+padding-left: 15px;
+padding-bottom: 8px;
+padding-right: 15px;
+font-size: 16px;
+border-radius: 2px;
+outline: none;
+font-weight: 400;
+text-align: center;
+border-width: 1px;
+border-style: solid;
+border-color: transparent;
+cursor: pointer;
+user-select: none;
+outline-color: transparent;
+font-family: IBM Plex Sans;
+}
+.p-Home.Button14 {
+color: #000000;
+background-color: transparent;
+padding-top: 8px;
+padding-left: 15px;
+padding-bottom: 8px;
+padding-right: 15px;
+font-size: 16px;
+border-radius: 2px;
+outline: none;
+font-weight: 400;
+text-align: center;
+border-width: 1px;
+border-style: solid;
+border-color: transparent;
+cursor: pointer;
+user-select: none;
+outline-color: transparent;
+font-family: IBM Plex Sans;
+}
+.p-Home.Dropdown4 {
+color: #000000;
+border-color: transparent;
+word-wrap: initial;
+font-family: IBM Plex Sans;
+outline-color: transparent;
+background-color: transparent;
+cursor: pointer;
+font-size: 15px;
+}
+.p-Home.TextBox2 {
+font-size: 60px;
+line-height: 70px;
+margin-right: 0px;
+width: ;
+}
+.p-Home.TextBox8 {
+font-size: 60px;
+line-height: 50px;
+margin-right: 0px;
+width: ;
+margin-bottom: 10px;
+border-bottom-width: 4px;
+border-bottom-style: solid;
+border-width: 0px;
+border-style: solid;
+}
+.p-Home.TextBox9 {
+font-size: 60px;
+line-height: 70px;
+margin-right: 0px;
+width: ;
+}
+.p-Home.TextBox3 {
+font-size: 22px;
+line-height: 36px;
+width: 43vw;
+word-wrap: normal;
+font-family: IBM Plex Sans;
+font-weight: 400;
+}
+.p-Home.TextBox10 {
+margin-top: ;
+margin-bottom: ;
+align-self: auto;
+font-family: IBM Plex Sans;
+font-weight: 500;
+}
+.p-Home.Image7 {
+width: 55%;
+margin-bottom: ;
+}
+.p-Home.TextBox11 {
+font-size: 20px;
+font-family: IBM Plex Sans;
+font-weight: 400;
+line-height: 34px;
+}
+.p-Home.TextBox12 {
+font-size: 20px;
+font-family: IBM Plex Sans;
+font-weight: 400;
+line-height: 34px;
+color: #686868;
+}
+.p-Home.TextBox13 {
+font-size: 26px;
+font-family: IBM Plex Sans;
+font-weight: 500;
+line-height: 34px;
+}
+.p-Home.TextBox14 {
+font-size: 20px;
+font-family: IBM Plex Sans;
+font-weight: 500;
+line-height: 30px;
+border-bottom-width: 4px;
+border-bottom-style: solid;
+margin-top: 20px;
+}
+.p-Home.Image89 {
+width: 55%;
+margin-bottom: ;
+}
+.p-Home.TextBox222 {
+font-size: 20px;
+font-family: IBM Plex Sans;
+font-weight: 500;
+line-height: 30px;
+border-bottom-width: 4px;
+border-bottom-style: solid;
+margin-top: 20px;
+}
+.p-Home.TextBox223 {
+font-size: 26px;
+font-family: IBM Plex Sans;
+font-weight: 500;
+line-height: 34px;
+}
+.p-Home.TextBox224 {
+font-size: 20px;
+font-family: IBM Plex Sans;
+font-weight: 400;
+line-height: 34px;
+color: #686868;
+}
+.p-Home.TextBox225 {
+font-size: 20px;
+font-family: IBM Plex Sans;
+font-weight: 400;
+line-height: 34px;
+}
+.p-Home.Image90 {
+width: 55%;
+margin-bottom: ;
+}
+.p-Home.TextBox226 {
+font-size: 20px;
+font-family: IBM Plex Sans;
+font-weight: 500;
+line-height: 30px;
+border-bottom-width: 4px;
+border-bottom-style: solid;
+margin-top: 20px;
+}
+.p-Home.TextBox227 {
+font-size: 26px;
+font-family: IBM Plex Sans;
+font-weight: 500;
+line-height: 34px;
+}
+.p-Home.TextBox228 {
+font-size: 20px;
+font-family: IBM Plex Sans;
+font-weight: 400;
+line-height: 34px;
+color: #686868;
+}
+.p-Home.TextBox229 {
+font-size: 20px;
+font-family: IBM Plex Sans;
+font-weight: 400;
+line-height: 34px;
+}
+.p-Home.Image92 {
+width: 55%;
+margin-bottom: ;
+}
+.p-Home.TextBox234 {
+font-size: 20px;
+font-family: IBM Plex Sans;
+font-weight: 500;
+line-height: 30px;
+border-bottom-width: 4px;
+border-bottom-style: solid;
+margin-top: 20px;
+}
+.p-Home.TextBox235 {
+font-size: 26px;
+font-family: IBM Plex Sans;
+font-weight: 500;
+line-height: 34px;
+}
+.p-Home.TextBox236 {
+font-size: 20px;
+font-family: IBM Plex Sans;
+font-weight: 400;
+line-height: 34px;
+color: #686868;
+}
+.p-Home.TextBox237 {
+font-size: 20px;
+font-family: IBM Plex Sans;
+font-weight: 400;
+line-height: 34px;
+}
+.p-Home.Div93 {
+width: 100%;
+height: 1px;
+background-color: #d6d6d6;
+line-height: 1px;
+border-color: transparent;
+outline-color: transparent;
+color: transparent;
+padding-left: ;
+margin-left: ;
+margin-bottom: 100px;
+margin-top: 100px;
+padding-bottom: ;
+}
+.p-Home.TextBox73 {
+font-size: 48px;
+font-family: IBM Plex Sans;
+font-weight: normal;
+line-height: 64px;
+}
+.p-Home.TextBox74 {
+font-size: 20px;
+font-family: IBM Plex Sans;
+font-weight: 600;
+line-height: 40px;
+border-bottom-width: 4px;
+border-bottom-style: solid;
+margin-top: 20px;
+align-self: flex-start;
+border-color: transparent;
+}
+.p-Home.Image25 {
+margin-bottom: 10px;
+margin-top: 10px;
+}
+.p-Home.TextBox78 {
+font-size: 26px;
+font-family: IBM Plex Sans;
+font-weight: 500;
+line-height: 34px;
+}
+.p-Home.TextBox79 {
+font-size: 18px;
+font-family: IBM Plex Sans;
+font-weight: 400;
+line-height: 24px;
+color: #686868;
+margin-top: 10px;
+border-bottom-width: 2px;
+border-bottom-style: solid;
+border-bottom-color: #000000;
+padding-bottom: 25px;
+}
+.p-Home.TextBox212 {
+font-size: 18px;
+font-family: IBM Plex Sans;
+font-weight: 400;
+line-height: 24px;
+color: #686868;
+margin-top: 10px;
+border-bottom-width: 2px;
+border-bottom-style: solid;
+border-bottom-color: #000000;
+padding-bottom: 25px;
+}
+.p-Home.TextBox213 {
+font-size: 26px;
+font-family: IBM Plex Sans;
+font-weight: 500;
+line-height: 34px;
+}
+.p-Home.Image102 {
+margin-bottom: 10px;
+margin-top: 10px;
+}
+.p-Home.TextBox214 {
+font-size: 18px;
+font-family: IBM Plex Sans;
+font-weight: 400;
+line-height: 24px;
+color: #686868;
+margin-top: 10px;
+border-bottom-width: 2px;
+border-bottom-style: solid;
+border-bottom-color: #000000;
+padding-bottom: 25px;
+}
+.p-Home.TextBox215 {
+font-size: 26px;
+font-family: IBM Plex Sans;
+font-weight: 500;
+line-height: 34px;
+}
+.p-Home.Image85 {
+margin-bottom: 10px;
+margin-top: 10px;
+}
+.p-Home.TextBox216 {
+font-size: 18px;
+font-family: IBM Plex Sans;
+font-weight: 400;
+line-height: 24px;
+color: #686868;
+margin-top: 10px;
+border-bottom-width: 2px;
+border-bottom-style: solid;
+border-bottom-color: #000000;
+padding-bottom: 25px;
+}
+.p-Home.TextBox217 {
+font-size: 26px;
+font-family: IBM Plex Sans;
+font-weight: 500;
+line-height: 34px;
+}
+.p-Home.Image86 {
+margin-bottom: 10px;
+margin-top: 10px;
+}
+.p-Home.TextBox218 {
+font-size: 18px;
+font-family: IBM Plex Sans;
+font-weight: 400;
+line-height: 24px;
+color: #686868;
+margin-top: 10px;
+border-bottom-width: 2px;
+border-bottom-style: solid;
+border-bottom-color: #000000;
+padding-bottom: 25px;
+}
+.p-Home.TextBox219 {
+font-size: 26px;
+font-family: IBM Plex Sans;
+font-weight: 500;
+line-height: 34px;
+}
+.p-Home.Image87 {
+margin-bottom: 10px;
+margin-top: 10px;
+}
+.p-Home.TextBox220 {
+font-size: 18px;
+font-family: IBM Plex Sans;
+font-weight: 400;
+line-height: 24px;
+color: #686868;
+margin-top: 10px;
+border-bottom-width: 2px;
+border-bottom-style: solid;
+border-bottom-color: #000000;
+padding-bottom: 25px;
+}
+.p-Home.TextBox221 {
+font-size: 26px;
+font-family: IBM Plex Sans;
+font-weight: 500;
+line-height: 34px;
+}
+.p-Home.Image88 {
+margin-bottom: 10px;
+margin-top: 10px;
+}
+.p-Home.Div80 {
+width: 100%;
+height: 1px;
+background-color: #d6d6d6;
+line-height: 1px;
+border-color: transparent;
+outline-color: transparent;
+color: transparent;
+padding-left: ;
+margin-left: ;
+margin-bottom: 100px;
+margin-top: 100px;
+padding-bottom: ;
+}
+.p-Home.Div81 {
+width: 100%;
+height: 1px;
+background-color: #d6d6d6;
+line-height: 1px;
+border-color: transparent;
+outline-color: transparent;
+color: transparent;
+padding-left: ;
+margin-left: ;
+margin-bottom: 100px;
+margin-top: 100px;
+padding-bottom: ;
+}
+.p-Home.TextBox182 {
+font-size: 20px;
+font-family: IBM Plex Sans;
+font-weight: 600;
+line-height: 40px;
+border-bottom-width: 4px;
+border-bottom-style: solid;
+margin-top: 20px;
+align-self: center;
+border-color: transparent;
+}
+.p-Home.TextBox183 {
+font-size: 48px;
+font-family: IBM Plex Sans;
+font-weight: normal;
+line-height: 64px;
+}
+.p-Home.Image77 {
+width: 60%;
+margin-bottom: ;
+}
+.p-Home.TextBox186 {
+font-size: 26px;
+font-family: IBM Plex Sans;
+font-weight: 500;
+line-height: 34px;
+}
+.p-Home.TextBox188 {
+font-size: 20px;
+font-family: IBM Plex Sans;
+font-weight: 400;
+line-height: 24px;
+color: #686868;
+margin-top: 10px;
+border-bottom-width: 2px;
+border-bottom-style: solid;
+border-bottom-color: #000000;
+padding-bottom: 10px;
+border-color: transparent;
+}
+.p-Home.Image78 {
+width: 60%;
+margin-bottom: ;
+}
+.p-Home.TextBox189 {
+font-size: 20px;
+font-family: IBM Plex Sans;
+font-weight: 400;
+line-height: 24px;
+color: #686868;
+margin-top: 10px;
+border-bottom-width: 2px;
+border-bottom-style: solid;
+border-bottom-color: #000000;
+padding-bottom: 10px;
+border-color: transparent;
+}
+.p-Home.TextBox190 {
+font-size: 26px;
+font-family: IBM Plex Sans;
+font-weight: 500;
+line-height: 34px;
+}
+.p-Home.Div83 {
+width: 100%;
+height: 1px;
+background-color: #d6d6d6;
+line-height: 1px;
+border-color: transparent;
+outline-color: transparent;
+color: transparent;
+padding-left: ;
+margin-left: ;
+margin-bottom: 100px;
+margin-top: 100px;
+padding-bottom: ;
+}
+.p-Home.TextBox198 {
+align-self: center;
+border-radius: 50%;
+border-width: 2px;
+border-style: solid;
+font-size: 34px;
+font-family: IBM Plex Sans;
+width: ;
+height: ;
+position: relative;
+padding-left: 50px;
+padding-right: 50px;
+padding-bottom: 35px;
+padding-top: 35px;
+cursor: pointer;
+}
+.p-Home.TextBox197 {
+font-size: 48px;
+font-family: IBM Plex Sans;
+font-weight: normal;
+line-height: 64px;
+margin-bottom: 10px;
+width: 80%;
+}
+.p-Home.TextBox193 {
+font-size: 24px;
+font-family: IBM Plex Sans;
+font-weight: 400;
+line-height: 28px;
+color: #686868;
+margin-top: 10px;
+border-bottom-width: 2px;
+border-bottom-style: solid;
+border-bottom-color: #000000;
+padding-bottom: 10px;
+border-color: transparent;
+width: 200%;
+}
+.p-Home.Div84 {
+width: 100%;
+height: 1px;
+background-color: #d6d6d6;
+line-height: 1px;
+border-color: transparent;
+outline-color: transparent;
+color: transparent;
+padding-left: ;
+margin-left: ;
+margin-bottom: 100px;
+margin-top: 100px;
+padding-bottom: ;
+}
+.p-Home.Image81 {
+margin-bottom: 10px;
+width: 180px;
+}
+.p-Home.TextBox206 {
+font-size: 18px;
+font-family: IBM Plex Sans;
+font-weight: 400;
+line-height: 24px;
+color: #686868;
+margin-top: 10px;
+border-bottom-width: 2px;
+border-bottom-style: solid;
+border-bottom-color: #000000;
+padding-bottom: 25px;
+border-color: transparent;
+}
+.p-Home.Input2 {
+box-sizing: border-box;
+font-variant: tabular-nums;
+font-feature-settings: tnum;
+padding-top: 4px;
+padding-left: ;
+padding-bottom: 15px;
+padding-right: 11px;
+color: #000000d9;
+font-size: 20px;
+background-color: #fff;
+background-image: none;
+border-width: 0px;
+border-style: solid;
+border-color: ;
+border-radius: 2px;
+outline-color: transparent;
+border-bottom-width: 2px;
+border-bottom-style: solid;
+width: 100%;
+font-family: IBM Plex Sans;
+border-bottom-color: ;
+margin-top: 22px;
+}
+.p-Home.TextBox207 {
+font-size: 18px;
+font-family: IBM Plex Sans;
+font-weight: 600;
+line-height: 24px;
+border-bottom-width: 4px;
+border-bottom-style: solid;
+margin-top: 20px;
+align-self: auto;
+border-color: transparent;
+}
+.p-Home.TextBox242 {
+font-size: 24px;
+font-family: IBM Plex Sans;
+font-weight: 600;
+line-height: 40px;
+border-bottom-width: 4px;
+border-bottom-style: solid;
+margin-top: ;
+align-self: flex-start;
+border-color: transparent;
+padding-left: 15px;
+}
+.p-Home.Button23 {
+color: #000000;
+background-color: transparent;
+padding-top: 8px;
+padding-left: 15px;
+padding-bottom: 8px;
+padding-right: 15px;
+font-size: 18px;
+border-radius: 2px;
+outline: none;
+font-weight: 400;
+text-align: center;
+border-width: 1px;
+border-style: solid;
+border-color: transparent;
+cursor: pointer;
+user-select: none;
+outline-color: transparent;
+margin-left: 0px;
+font-family: IBM Plex Sans;
+}
+.p-Home.Button71 {
+color: #000000;
+background-color: transparent;
+padding-top: 8px;
+padding-left: 15px;
+padding-bottom: 8px;
+padding-right: 15px;
+font-size: 18px;
+border-radius: 2px;
+outline: none;
+font-weight: 400;
+text-align: center;
+border-width: 1px;
+border-style: solid;
+border-color: transparent;
+cursor: pointer;
+user-select: none;
+outline-color: transparent;
+margin-left: 0px;
+font-family: IBM Plex Sans;
+}
+.p-Home.Button72 {
+color: #000000;
+background-color: transparent;
+padding-top: 8px;
+padding-left: 15px;
+padding-bottom: 8px;
+padding-right: 15px;
+font-size: 18px;
+border-radius: 2px;
+outline: none;
+font-weight: 400;
+text-align: center;
+border-width: 1px;
+border-style: solid;
+border-color: transparent;
+cursor: pointer;
+user-select: none;
+outline-color: transparent;
+margin-left: 0px;
+font-family: IBM Plex Sans;
+}
+.p-Home.Button73 {
+color: #000000;
+background-color: transparent;
+padding-top: 8px;
+padding-left: 15px;
+padding-bottom: 8px;
+padding-right: 15px;
+font-size: 18px;
+border-radius: 2px;
+outline: none;
+font-weight: 400;
+text-align: center;
+border-width: 1px;
+border-style: solid;
+border-color: transparent;
+cursor: pointer;
+user-select: none;
+outline-color: transparent;
+margin-left: 0px;
+font-family: IBM Plex Sans;
+}
+.p-Home.Button74 {
+color: #000000;
+background-color: transparent;
+padding-top: 8px;
+padding-left: 15px;
+padding-bottom: 8px;
+padding-right: 15px;
+font-size: 18px;
+border-radius: 2px;
+outline: none;
+font-weight: 400;
+text-align: center;
+border-width: 1px;
+border-style: solid;
+border-color: transparent;
+cursor: pointer;
+user-select: none;
+outline-color: transparent;
+margin-left: 0px;
+font-family: IBM Plex Sans;
+}
+.p-Home.Button75 {
+color: #000000;
+background-color: transparent;
+padding-top: 8px;
+padding-left: 15px;
+padding-bottom: 8px;
+padding-right: 15px;
+font-size: 18px;
+border-radius: 2px;
+outline: none;
+font-weight: 400;
+text-align: center;
+border-width: 1px;
+border-style: solid;
+border-color: transparent;
+cursor: pointer;
+user-select: none;
+outline-color: transparent;
+margin-left: 0px;
+font-family: IBM Plex Sans;
+}
+.p-Home.Button76 {
+color: #000000;
+background-color: transparent;
+padding-top: 8px;
+padding-left: 15px;
+padding-bottom: 8px;
+padding-right: 15px;
+font-size: 18px;
+border-radius: 2px;
+outline: none;
+font-weight: 400;
+text-align: center;
+border-width: 1px;
+border-style: solid;
+border-color: transparent;
+cursor: pointer;
+user-select: none;
+outline-color: transparent;
+margin-left: 0px;
+font-family: IBM Plex Sans;
+}
+.p-Home.Button77 {
+color: #000000;
+background-color: transparent;
+padding-top: 8px;
+padding-left: 15px;
+padding-bottom: 8px;
+padding-right: 15px;
+font-size: 18px;
+border-radius: 2px;
+outline: none;
+font-weight: 400;
+text-align: center;
+border-width: 1px;
+border-style: solid;
+border-color: transparent;
+cursor: pointer;
+user-select: none;
+outline-color: transparent;
+margin-left: 0px;
+font-family: IBM Plex Sans;
+}
+.p-Home.Button78 {
+color: #000000;
+background-color: transparent;
+padding-top: 8px;
+padding-left: 15px;
+padding-bottom: 8px;
+padding-right: 15px;
+font-size: 18px;
+border-radius: 2px;
+outline: none;
+font-weight: 400;
+text-align: center;
+border-width: 1px;
+border-style: solid;
+border-color: transparent;
+cursor: pointer;
+user-select: none;
+outline-color: transparent;
+margin-left: 0px;
+font-family: IBM Plex Sans;
+}
+.p-Home.Button79 {
+color: #000000;
+background-color: transparent;
+padding-top: 8px;
+padding-left: 15px;
+padding-bottom: 8px;
+padding-right: 15px;
+font-size: 18px;
+border-radius: 2px;
+outline: none;
+font-weight: 400;
+text-align: center;
+border-width: 1px;
+border-style: solid;
+border-color: transparent;
+cursor: pointer;
+user-select: none;
+outline-color: transparent;
+margin-left: 0px;
+font-family: IBM Plex Sans;
+}
+.p-Home.Button80 {
+color: #000000;
+background-color: transparent;
+padding-top: 8px;
+padding-left: 15px;
+padding-bottom: 8px;
+padding-right: 15px;
+font-size: 18px;
+border-radius: 2px;
+outline: none;
+font-weight: 400;
+text-align: center;
+border-width: 1px;
+border-style: solid;
+border-color: transparent;
+cursor: pointer;
+user-select: none;
+outline-color: transparent;
+margin-left: 0px;
+font-family: IBM Plex Sans;
+}
+.p-Home.Button81 {
+color: #000000;
+background-color: transparent;
+padding-top: 8px;
+padding-left: 15px;
+padding-bottom: 8px;
+padding-right: 15px;
+font-size: 18px;
+border-radius: 2px;
+outline: none;
+font-weight: 400;
+text-align: center;
+border-width: 1px;
+border-style: solid;
+border-color: transparent;
+cursor: pointer;
+user-select: none;
+outline-color: transparent;
+margin-left: 0px;
+font-family: IBM Plex Sans;
+}
+.p-Home.Button82 {
+color: #000000;
+background-color: transparent;
+padding-top: 8px;
+padding-left: 15px;
+padding-bottom: 8px;
+padding-right: 15px;
+font-size: 18px;
+border-radius: 2px;
+outline: none;
+font-weight: 400;
+text-align: center;
+border-width: 1px;
+border-style: solid;
+border-color: transparent;
+cursor: pointer;
+user-select: none;
+outline-color: transparent;
+margin-left: 0px;
+font-family: IBM Plex Sans;
+}
+.p-Home.Button83 {
+color: #000000;
+background-color: transparent;
+padding-top: 8px;
+padding-left: 15px;
+padding-bottom: 8px;
+padding-right: 15px;
+font-size: 18px;
+border-radius: 2px;
+outline: none;
+font-weight: 400;
+text-align: center;
+border-width: 1px;
+border-style: solid;
+border-color: transparent;
+cursor: pointer;
+user-select: none;
+outline-color: transparent;
+margin-left: 0px;
+font-family: IBM Plex Sans;
+}
+.p-Home.Button84 {
+color: #000000;
+background-color: transparent;
+padding-top: 8px;
+padding-left: 15px;
+padding-bottom: 8px;
+padding-right: 15px;
+font-size: 18px;
+border-radius: 2px;
+outline: none;
+font-weight: 400;
+text-align: center;
+border-width: 1px;
+border-style: solid;
+border-color: transparent;
+cursor: pointer;
+user-select: none;
+outline-color: transparent;
+margin-left: 0px;
+font-family: IBM Plex Sans;
+}
+.p-Home.Button85 {
+color: #000000;
+background-color: transparent;
+padding-top: 8px;
+padding-left: 15px;
+padding-bottom: 8px;
+padding-right: 15px;
+font-size: 18px;
+border-radius: 2px;
+outline: none;
+font-weight: 400;
+text-align: center;
+border-width: 1px;
+border-style: solid;
+border-color: transparent;
+cursor: pointer;
+user-select: none;
+outline-color: transparent;
+margin-left: 0px;
+font-family: IBM Plex Sans;
+}
+.p-Home.Button86 {
+color: #000000;
+background-color: transparent;
+padding-top: 8px;
+padding-left: 15px;
+padding-bottom: 8px;
+padding-right: 15px;
+font-size: 18px;
+border-radius: 2px;
+outline: none;
+font-weight: 400;
+text-align: center;
+border-width: 1px;
+border-style: solid;
+border-color: transparent;
+cursor: pointer;
+user-select: none;
+outline-color: transparent;
+margin-left: 0px;
+font-family: IBM Plex Sans;
+}
+.p-Home.Button87 {
+color: #000000;
+background-color: transparent;
+padding-top: 8px;
+padding-left: 15px;
+padding-bottom: 8px;
+padding-right: 15px;
+font-size: 18px;
+border-radius: 2px;
+outline: none;
+font-weight: 400;
+text-align: center;
+border-width: 1px;
+border-style: solid;
+border-color: transparent;
+cursor: pointer;
+user-select: none;
+outline-color: transparent;
+margin-left: 0px;
+font-family: IBM Plex Sans;
+}
+.p-Home.TextBox243 {
+font-size: 24px;
+font-family: IBM Plex Sans;
+font-weight: 600;
+line-height: 40px;
+border-bottom-width: 4px;
+border-bottom-style: solid;
+margin-top: ;
+align-self: flex-start;
+border-color: transparent;
+padding-left: 15px;
+}
+.p-Home.TextBox246 {
+font-size: 20px;
+font-family: IBM Plex Sans;
+font-weight: 600;
+line-height: 30px;
+border-bottom-width: 4px;
+border-bottom-style: solid;
+margin-top: ;
+margin-left: 15px;
+}
+.p-Home.Button94 {
+color: #000000;
+background-color: transparent;
+padding-top: 8px;
+padding-left: 15px;
+padding-bottom: 8px;
+padding-right: 15px;
+font-size: 18px;
+border-radius: 2px;
+outline: none;
+font-weight: 400;
+text-align: center;
+border-width: 1px;
+border-style: solid;
+border-color: transparent;
+cursor: pointer;
+user-select: none;
+outline-color: transparent;
+margin-left: 0px;
+font-family: IBM Plex Sans;
+}
+.p-Home.Button95 {
+color: #000000;
+background-color: transparent;
+padding-top: 8px;
+padding-left: 15px;
+padding-bottom: 8px;
+padding-right: 15px;
+font-size: 18px;
+border-radius: 2px;
+outline: none;
+font-weight: 400;
+text-align: center;
+border-width: 1px;
+border-style: solid;
+border-color: transparent;
+cursor: pointer;
+user-select: none;
+outline-color: transparent;
+margin-left: 0px;
+font-family: IBM Plex Sans;
+}
+.p-Home.Button96 {
+color: #000000;
+background-color: transparent;
+padding-top: 8px;
+padding-left: 15px;
+padding-bottom: 8px;
+padding-right: 15px;
+font-size: 18px;
+border-radius: 2px;
+outline: none;
+font-weight: 400;
+text-align: center;
+border-width: 1px;
+border-style: solid;
+border-color: transparent;
+cursor: pointer;
+user-select: none;
+outline-color: transparent;
+margin-left: 0px;
+font-family: IBM Plex Sans;
+}
+.p-Home.Button97 {
+color: #000000;
+background-color: transparent;
+padding-top: 8px;
+padding-left: 15px;
+padding-bottom: 8px;
+padding-right: 15px;
+font-size: 18px;
+border-radius: 2px;
+outline: none;
+font-weight: 400;
+text-align: center;
+border-width: 1px;
+border-style: solid;
+border-color: transparent;
+cursor: pointer;
+user-select: none;
+outline-color: transparent;
+margin-left: 0px;
+font-family: IBM Plex Sans;
+}
+.p-Home.Button98 {
+color: #000000;
+background-color: transparent;
+padding-top: 8px;
+padding-left: 15px;
+padding-bottom: 8px;
+padding-right: 15px;
+font-size: 18px;
+border-radius: 2px;
+outline: none;
+font-weight: 400;
+text-align: center;
+border-width: 1px;
+border-style: solid;
+border-color: transparent;
+cursor: pointer;
+user-select: none;
+outline-color: transparent;
+margin-left: 0px;
+font-family: IBM Plex Sans;
+}
+.p-Home.Button99 {
+color: #000000;
+background-color: transparent;
+padding-top: 8px;
+padding-left: 15px;
+padding-bottom: 8px;
+padding-right: 15px;
+font-size: 18px;
+border-radius: 2px;
+outline: none;
+font-weight: 400;
+text-align: center;
+border-width: 1px;
+border-style: solid;
+border-color: transparent;
+cursor: pointer;
+user-select: none;
+outline-color: transparent;
+margin-left: 0px;
+font-family: IBM Plex Sans;
+}
+.p-Home.Div91 {
+width: 100%;
+height: 1px;
+background-color: #d6d6d6;
+line-height: 1px;
+border-color: transparent;
+outline-color: transparent;
+color: transparent;
+padding-left: ;
+margin-left: ;
+margin-bottom: 100px;
+margin-top: 100px;
+padding-bottom: ;
+}
+.p-Home.TextBox255 {
+font-family: IBM Plex Sans;
+font-weight: 500;
+font-size: 18px;
+color: #5a5454;
+}
+.p-Home.Link6 {
+font-family: IBM Plex Sans;
+font-weight: 500;
+}
+.p-Home.Link13 {
+font-family: IBM Plex Sans;
+font-weight: 500;
+}
+.p-Home.Link16 {
+font-family: IBM Plex Sans;
+font-weight: 500;
+}
+.p-Home.Link17 {
+font-family: IBM Plex Sans;
+font-weight: 500;
+}
+.p-Home.Link18 {
+font-family: IBM Plex Sans;
+font-weight: 500;
+}
+.p-Home.Link19 {
+font-family: IBM Plex Sans;
+font-weight: 500;
+}
+.p-Home.Image100 {
+width: 50%;
+margin-bottom: 10px;
+}
+.p-Home.TextBox256 {
+font-size: 24px;
+font-family: IBM Plex Sans;
+font-weight: 600;
+line-height: 40px;
+border-bottom-width: 4px;
+border-bottom-style: solid;
+margin-top: 20px;
+border-color: transparent;
+}
+.p-Home.TextBox257 {
+font-size: 48px;
+font-family: IBM Plex Sans;
+font-weight: normal;
+line-height: 64px;
+margin-bottom: 10px;
+}
+.p-Home.TextBox258 {
+font-size: 22px;
+font-family: IBM Plex Sans;
+font-weight: 400;
+line-height: 36px;
+color: #686868;
+}
+@media screen and (max-width: 478px) {	.p-Home.Flex20 {width: 95%;
+padding-left: 10px;
+padding-right: 10px;
+max-width: ;
+height: 1730%;
+}
+	.p-Home.Flex4 {flex-direction: column;
+row-gap: 10px;
+align-items: stretch;
+flex-wrap: nowrap;
+align-content: stretch;
+padding-left: 0px;
+padding-right: ;
+justify-content: flex-start;
+padding-top: 0px;
+height: ;
+margin-top: 10px;
+}
+	.p-Home.Flex7 {row-gap: ;
+width: ;
+height: ;
+overflow: visible;
+justify-content: space-between;
+flex-direction: row;
+align-items: stretch;
+margin-right: 0px;
+padding-right: 0px;
+padding-bottom: ;
+}
+	.p-Home.Flex13 {justify-content: flex-start;
+}
+	.p-Home.Flex14 {align-items: center;
+display: flex;
+}
+	.p-Home.Flex10 {flex-direction: row;
+display: none;
+}
+	.p-Home.Flex6 {flex-wrap: nowrap;
+justify-content: flex-start;
+flex-direction: column;
+row-gap: 1px;
+}
+	.p-Home.Flex15 {margin-top: 100px;
+margin-bottom: 0px;
+}
+	.p-Home.Flex16 {flex-direction: column;
+width: 90%;
+}
+	.p-Home.Flex22 {flex-direction: column;
+}
+	.p-Home.Flex24 {flex-direction: column;
+border-color: transparent;
+}
+	.p-Home.Flex18 {flex-direction: column;
+}
+	.p-Home.Flex19 {width: 90%;
+margin-left: ;
+padding-left: 20px;
+margin-right: ;
+padding-right: 20px;
+cursor: pointer;
+padding-top: 30px;
+padding-bottom: 35px;
+row-gap: 7px;
+}
+	.p-Home.Flex84 {flex-direction: column;
+}
+	.p-Home.Flex83 {width: 90%;
+margin-left: ;
+padding-left: 20px;
+margin-right: ;
+padding-right: 20px;
+cursor: pointer;
+padding-top: 30px;
+padding-bottom: 35px;
+row-gap: 7px;
+}
+	.p-Home.Flex86 {flex-direction: column;
+}
+	.p-Home.Flex85 {width: 90%;
+margin-left: ;
+padding-left: 20px;
+margin-right: ;
+padding-right: 20px;
+cursor: pointer;
+padding-top: 30px;
+padding-bottom: 35px;
+row-gap: 7px;
+}
+	.p-Home.Flex90 {flex-direction: column;
+}
+	.p-Home.Flex89 {width: 90%;
+margin-left: ;
+padding-left: 20px;
+margin-right: ;
+padding-right: 20px;
+cursor: pointer;
+padding-top: 30px;
+padding-bottom: 35px;
+row-gap: 7px;
+}
+	.p-Home.Flex54 {flex-direction: column;
+align-items: flex-start;
+}
+	.p-Home.Div27 {min-width: ;
+width: 100%;
+}
+	.p-Home.Div85 {min-width: ;
+width: 100%;
+}
+	.p-Home.Div86 {width: 100%;
+}
+	.p-Home.Div87 {width: 100%;
+}
+	.p-Home.Div88 {width: 100%;
+}
+	.p-Home.Div89 {width: 100%;
+}
+	.p-Home.Flex57 {flex-direction: column;
+align-items: flex-start;
+}
+	.p-Home.Flex60 {flex-direction: column;
+}
+	.p-Home.Flex59 {width: ;
+margin-left: ;
+padding-left: ;
+margin-right: ;
+padding-right: 20px;
+cursor: pointer;
+}
+	.p-Home.Flex62 {flex-direction: column;
+}
+	.p-Home.Flex61 {width: ;
+margin-left: ;
+padding-left: ;
+margin-right: ;
+padding-right: 20px;
+cursor: pointer;
+}
+	.p-Home.Flex69 {flex-direction: column-reverse;
+align-items: flex-start;
+}
+	.p-Home.Flex66 {flex-direction: column;
+}
+	.p-Home.Flex64 {width: ;
+margin-left: ;
+padding-left: ;
+margin-right: ;
+padding-right: ;
+cursor: pointer;
+}
+	.p-Home.Flex77 {flex-direction: column;
+min-width: ;
+}
+	.p-Home.Flex78 {min-width: 100%;
+}
+	.p-Home.Flex94 {min-width: 100%;
+align-items: stretch;
+}
+	.p-Home.Flex95 {min-width: 100%;
+}
+	.p-Home.Flex132 {flex-wrap: wrap;
+width: 80%;
+}
+	.p-Home.TextBox40 {align-self: center;
+}
+	.p-Home.Image101 {top: 360px;
+width: 100px;
+position: relative;
+left: 300px;
+}
+	.p-Home.Image4 {cursor: pointer;
+}
+	.p-Home.Menu2 {margin-right: 0px;
+cursor: pointer;
+margin-left: 20px;
+}
+	.p-Home.Image2 {width: 0px;
+clear: none;
+float: none;
+background-color: ;
+height: 0px;
+margin-right: ;
+color: ;
+}
+	.p-Home.Dropdown4 {background-color: transparent;
+}
+	.p-Home.TextBox2 {font-size: 32px;
+line-height: 52px;
+padding-bottom: ;
+margin-bottom: 10px;
+width: 100%;
+}
+	.p-Home.TextBox8 {font-size: 32px;
+line-height: 32px;
+padding-bottom: ;
+margin-bottom: 10px;
+width: 100%;
+border-radius: ;
+outline-offset: ;
+outline-color: transparent;
+outline-style: solid;
+outline-width: ;
+border-bottom-width: 4px;
+border-bottom-color: #020202;
+border-color: #000000;
+border-style: solid;
+border-bottom-left-radius: ;
+border-width: 0px;
+border-bottom-style: solid;
+}
+	.p-Home.TextBox9 {font-size: 32px;
+line-height: 52px;
+padding-bottom: ;
+margin-bottom: 10px;
+width: 100%;
+}
+	.p-Home.TextBox3 {font-size: 18px;
+line-height: 32px;
+width: 90%;
+}
+	.p-Home.TextBox10 {font-size: 34px;
+}
+	.p-Home.Image7 {width: 100%;
+}
+	.p-Home.TextBox12 {word-wrap: normal;
+}
+	.p-Home.TextBox13 {font-weight: 500;
+}
+	.p-Home.TextBox14 {font-weight: 500;
+font-size: 20px;
+line-height: 30px;
+}
+	.p-Home.Image89 {width: 100%;
+}
+	.p-Home.TextBox222 {font-weight: 500;
+font-size: 20px;
+line-height: 30px;
+}
+	.p-Home.TextBox223 {font-weight: 500;
+}
+	.p-Home.TextBox224 {word-wrap: normal;
+}
+	.p-Home.Image90 {width: 100%;
+}
+	.p-Home.TextBox226 {font-weight: 500;
+font-size: 20px;
+line-height: 30px;
+}
+	.p-Home.TextBox227 {font-weight: 500;
+}
+	.p-Home.TextBox228 {word-wrap: normal;
+}
+	.p-Home.Image92 {width: 100%;
+}
+	.p-Home.TextBox234 {font-weight: 500;
+font-size: 20px;
+line-height: 30px;
+}
+	.p-Home.TextBox235 {font-weight: 500;
+}
+	.p-Home.TextBox236 {word-wrap: normal;
+}
+	.p-Home.TextBox73 {font-size: 32px;
+line-height: 42px;
+}
+	.p-Home.TextBox74 {align-self: auto;
+}
+	.p-Home.TextBox79 {word-wrap: normal;
+}
+	.p-Home.TextBox212 {word-wrap: normal;
+}
+	.p-Home.TextBox214 {word-wrap: normal;
+}
+	.p-Home.TextBox216 {word-wrap: normal;
+}
+	.p-Home.TextBox218 {word-wrap: normal;
+}
+	.p-Home.TextBox220 {word-wrap: normal;
+}
+	.p-Home.TextBox182 {align-self: auto;
+}
+	.p-Home.TextBox183 {line-height: 42px;
+font-size: 32px;
+}
+	.p-Home.Image77 {width: 100%;
+}
+	.p-Home.TextBox188 {word-wrap: normal;
+}
+	.p-Home.Image78 {width: 100%;
+}
+	.p-Home.TextBox189 {word-wrap: normal;
+}
+	.p-Home.TextBox198 {padding-left: 30px;
+padding-right: 30px;
+padding-top: 20px;
+padding-bottom: 20px;
+}
+	.p-Home.TextBox197 {font-size: 38px;
+}
+	.p-Home.TextBox193 {word-wrap: normal;
+width: 100%;
+font-size: 18px;
+}
+	.p-Home.Image81 {cursor: pointer;
+}
+	.p-Home.TextBox206 {word-wrap: normal;
+}
+	.p-Home.TextBox207 {align-self: center;
+}
+	.p-Home.TextBox242 {align-self: auto;
+}
+	.p-Home.TextBox243 {align-self: auto;
+}
+	.p-Home.TextBox246 {font-weight: 500;
+font-size: 20px;
+line-height: 30px;
+}
+	.p-Home.Image100 {width: 100%;
+}
+	.p-Home.TextBox257 {font-size: 34px;
+line-height: 52px;
+}
+	.p-Home.TextBox258 {word-wrap: normal;
+font-size: 18px;
+}
+}
+@media screen and (max-width: 767px) {	.p-Home.Flex102 {align-items: flex-start;
+}
+	.p-Home.Flex111 {align-items: flex-start;
+}
+	.p-Home.Flex112 {align-items: flex-start;
+}
+	.p-Home.Flex114 {align-items: flex-start;
+}
+	.p-Home.Flex129 {row-gap: 15px;
+}
+	.p-Home.Flex134 {flex-direction: column;
+width: ;
+height: ;
+}
+	.p-Home.Flex133 {width: 100%;
+padding-left: ;
+padding-right: ;
+}
+	.p-Home.TextBox256 {font-size: 20px;
+font-weight: 600;
+border-color: transparent;
+}
+	.p-Home.Flex20 {width: 91%;
+height: 1590%;
+}
+	.p-Home.Flex4 {height: ;
+}
+	.p-Home.Div27 {min-width: 45%;
+}
+	.p-Home.Div85 {min-width: 45%;
+}
+	.p-Home.Div86 {min-width: 45%;
+}
+	.p-Home.Div87 {min-width: 45%;
+}
+	.p-Home.Div88 {min-width: 45%;
+}
+	.p-Home.Div89 {min-width: 45%;
+}
+	.p-Home.Flex60 {flex-direction: column;
+}
+	.p-Home.Flex59 {width: 100%;
+}
+	.p-Home.Flex62 {flex-direction: column;
+}
+	.p-Home.Flex61 {width: 100%;
+}
+	.p-Home.Flex69 {flex-direction: column-reverse;
+align-items: flex-start;
+margin-bottom: 10px;
+}
+	.p-Home.Flex77 {flex-direction: row;
+flex-wrap: wrap;
+justify-content: flex-start;
+row-gap: 30px;
+padding-left: 10px;
+padding-right: 10px;
+}
+	.p-Home.Flex78 {min-width: 40%;
+width: 100%;
+}
+	.p-Home.Flex94 {width: 80%;
+}
+	.p-Home.Flex95 {width: 100%;
+flex-direction: column-reverse;
+min-width: 100%;
+}
+	.p-Home.Image101 {top: 400px;
+left: 450px;
+right: 60px;
+background-position-x: ;
+background-position-y: ;
+float: none;
+position: relative;
+clear: none;
+width: 160px;
+}
+	.p-Home.Dropdown4 {font-size: 16px;
+align-self: auto;
+}
+	.p-Home.Image77 {width: 100%;
+}
+	.p-Home.Image78 {width: 100%;
+}
+	.p-Home.TextBox198 {width: ;
+padding-top: 20px;
+padding-bottom: 20px;
+padding-left: 30px;
+padding-right: 30px;
+}
+	.p-Home.TextBox197 {width: 100%;
+}
+	.p-Home.TextBox242 {padding-left: ;
+}
+	.p-Home.TextBox243 {padding-left: ;
+width: %;
+}
+	.p-Home.Image100 {width: 100%;
+margin-top: 60px;
+}
+}
+@media screen and (max-width: 991px) {	.p-Home.Flex129 {flex-direction: column;
+align-items: flex-start;
+row-gap: 10px;
+}
+	.p-Home.Flex134 {flex-direction: row;
+width: ;
+height: ;
+margin-top: ;
+padding-top: ;
+margin-bottom: 20px;
+}
+	.p-Home.TextBox2 {width: ;
+}
+	.p-Home.TextBox8 {width: ;
+}
+	.p-Home.TextBox9 {width: ;
+}
+	.p-Home.Flex20 {width: 93%;
+height: 1340%;
+}
+	.p-Home.Flex4 {padding-left: 25px;
+padding-right: 25px;
+height: ;
+}
+	.p-Home.Image101 {left: 380px;
+}
+}
